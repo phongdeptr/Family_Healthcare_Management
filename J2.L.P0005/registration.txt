@@ -1,0 +1,4 @@
+reg01; phonghoang; 30; true; phong@gmail.com; 03030; AnLac; 2; 3; 3
+reg03; Richchoi11; 18; true; rich@choi.com; 1010100; Dong Da, Ha NOi; 0; 0; 0
+reg04; Nocture; 12; true; pgogo@gmail.com; 0909090909; Ho Chi Minh, Vietnam; 3; 2; 2
+reg06; Donald Trump; 75; false; DonalTrump@gmail.com; 0909090909; New York City, United State of America; 2; 1; 1
